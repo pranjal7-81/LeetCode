@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/pranjal7-81/LeetCode/tree/master/0389-find-the-difference) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
