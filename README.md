@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjal7-81/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/pranjal7-81/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranjal7-81/LeetCode/tree/master/0002-add-two-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/pranjal7-81/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranjal7-81/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pranjal7-81/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
