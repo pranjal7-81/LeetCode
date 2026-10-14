@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/pranjal7-81/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pranjal7-81/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Math
 |  |
 | ------- |
