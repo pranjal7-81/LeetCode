@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjal7-81/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/pranjal7-81/LeetCode/tree/master/1436-destination-city) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pranjal7-81/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjal7-81/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjal7-81/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bucket Sort
 |  |
 | ------- |
