@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/pranjal7-81/LeetCode/tree/master/0994-rotting-oranges) |
 | [1436-destination-city](https://github.com/pranjal7-81/LeetCode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/pranjal7-81/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pranjal7-81/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/pranjal7-81/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjal7-81/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2706-buy-two-chocolates](https://github.com/pranjal7-81/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Bracket Sequences
 |  |
 | ------- |
