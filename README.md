@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pranjal7-81/LeetCode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/pranjal7-81/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pranjal7-81/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pranjal7-81/LeetCode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/pranjal7-81/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/pranjal7-81/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pranjal7-81/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjal7-81/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranjal7-81/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0295-find-median-from-data-stream](https://github.com/pranjal7-81/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal7-81/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranjal7-81/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -206,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranjal7-81/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pranjal7-81/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/pranjal7-81/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
