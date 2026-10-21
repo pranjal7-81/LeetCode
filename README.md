@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranjal7-81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal7-81/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1436-destination-city](https://github.com/pranjal7-81/LeetCode/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/pranjal7-81/LeetCode/tree/master/1496-path-crossing) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjal7-81/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/pranjal7-81/LeetCode/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/pranjal7-81/LeetCode/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
