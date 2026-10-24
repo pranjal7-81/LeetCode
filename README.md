@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pranjal7-81/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pranjal7-81/LeetCode/tree/master/0389-find-the-difference) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pranjal7-81/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Sorting
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pranjal7-81/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/pranjal7-81/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
