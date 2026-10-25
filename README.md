@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/pranjal7-81/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/pranjal7-81/LeetCode/tree/master/1046-last-stone-weight) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pranjal7-81/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1436-destination-city](https://github.com/pranjal7-81/LeetCode/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/pranjal7-81/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/pranjal7-81/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pranjal7-81/LeetCode/tree/master/0389-find-the-difference) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/pranjal7-81/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pranjal7-81/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pranjal7-81/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/pranjal7-81/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pranjal7-81/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/pranjal7-81/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranjal7-81/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pranjal7-81/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pranjal7-81/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
