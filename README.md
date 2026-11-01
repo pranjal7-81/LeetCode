@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/pranjal7-81/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pranjal7-81/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/pranjal7-81/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2706-buy-two-chocolates](https://github.com/pranjal7-81/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/pranjal7-81/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pranjal7-81/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/pranjal7-81/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/pranjal7-81/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Quickselect
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal7-81/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pranjal7-81/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/pranjal7-81/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/pranjal7-81/LeetCode/tree/master/0735-asteroid-collision) |
 | [1688-count-of-matches-in-tournament](https://github.com/pranjal7-81/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/pranjal7-81/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
