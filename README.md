@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pranjal7-81/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/pranjal7-81/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/pranjal7-81/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranjal7-81/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pranjal7-81/LeetCode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/pranjal7-81/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/pranjal7-81/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pranjal7-81/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pranjal7-81/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pranjal7-81/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/pranjal7-81/LeetCode/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranjal7-81/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -252,5 +255,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pranjal7-81/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/pranjal7-81/LeetCode/tree/master/0338-counting-bits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/pranjal7-81/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
