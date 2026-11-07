@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pranjal7-81/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1436-destination-city](https://github.com/pranjal7-81/LeetCode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/pranjal7-81/LeetCode/tree/master/1496-path-crossing) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pranjal7-81/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/pranjal7-81/LeetCode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/pranjal7-81/LeetCode/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranjal7-81/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pranjal7-81/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pranjal7-81/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pranjal7-81/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pranjal7-81/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pranjal7-81/LeetCode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Recursion
 |  |
 | ------- |
