@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/pranjal7-81/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranjal7-81/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranjal7-81/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranjal7-81/LeetCode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/pranjal7-81/LeetCode/tree/master/0069-sqrtx) |
 | [1688-count-of-matches-in-tournament](https://github.com/pranjal7-81/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/pranjal7-81/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pranjal7-81/LeetCode/tree/master/0042-trapping-rain-water) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pranjal7-81/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
