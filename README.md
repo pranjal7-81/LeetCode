@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pranjal7-81/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/pranjal7-81/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pranjal7-81/LeetCode/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/pranjal7-81/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/pranjal7-81/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pranjal7-81/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pranjal7-81/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranjal7-81/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranjal7-81/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0875-koko-eating-bananas](https://github.com/pranjal7-81/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranjal7-81/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
